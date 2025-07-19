@@ -28,7 +28,7 @@ Follow the steps below to run this project on your local machine.
 
 
 ```bash
-git clone https://github.com/yourusername/plant-disease-classification.git
+git clone https://github.com/SanjaiPG/BioScan.git
 ```
 ```bash
 cd plant-disease-classification
