@@ -30,9 +30,6 @@ Follow the steps below to run this project on your local machine.
 ```bash
 git clone https://github.com/SanjaiPG/BioScan.git
 ```
-```bash
-cd plant-disease-classification
-```
 
 ## Dependencies:
 
@@ -45,6 +42,11 @@ pip install -r requirements.txt
 Download the dataset from Kaggle:
 
 The dataset can be downloaded from Kaggle using the following command:
+
+DataSet link
+```bash
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+```
 
 ```bash
 kaggle datasets download -d vipoooool/new-plant-diseases-dataset
