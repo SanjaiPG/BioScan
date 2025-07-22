@@ -19,7 +19,7 @@ This model will be deployed within a local application, enabling users to classi
 
 ## Overview
 
-This project aims to develop an efficient deep learning model for classifying images of plant diseases using Convolutional Neural Networks (CNNs). The dataset contains images of various plant diseases, which are preprocessed and fed into a CNN model for training. Once trained, this model can be deployed within a local application to allow users to classify plant diseases directly on their devices.
+This project aims to develop an efficient deep learning model for classifying images of plant diseases using Convolutional Neural Networks (CNNs). The dataset contains photos of various plant diseases, which are preprocessed and fed into a CNN model for training. Once trained, this model can be deployed within a local application, allowing users to classify plant diseases directly on their devices.
 
 ## Getting Started
 Follow the steps below to run this project on your local machine.
@@ -49,23 +49,20 @@ This dataset has been generated through offline augmentation of the original ima
 
 Download the dataset from Kaggle:
 
-<<<<<<< HEAD
 DataSet link
 =======
->>>>>>> 52593e6d6d4ff47c70ca00b23933280b0c3c7a11
 ```bash
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 ```
 
-<<<<<<< HEAD
-Make sure you have your Kaggle credentials set up (username and key) in your environment variables.
+
+Ensure that you have set up your Kaggle credentials (username and key) in your environment variables.
 =======
 ## Model Architecture
 The model follows a VGG-style architecture, composed of stacked convolutional and pooling layers, designed for robust feature extraction and classification.
 
 Input Layer
 Input shape: 128 × 128 × 3 (RGB images)
->>>>>>> 52593e6d6d4ff47c70ca00b23933280b0c3c7a11
 
 Images are resized and normalized using TensorFlow.
 
