@@ -41,15 +41,9 @@ pip install -r requirements.txt
 
 Download the dataset from Kaggle:
 
-The dataset can be downloaded from Kaggle using the following command:
-
 DataSet link
 ```bash
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
-```
-
-```bash
-kaggle datasets download -d vipoooool/new-plant-diseases-dataset
 ```
 
 Make sure you have your Kaggle credentials set up (username and key) in your environment variables.
