@@ -49,7 +49,6 @@ This dataset has been generated through offline augmentation of the original ima
 
 Download the dataset from Kaggle:
 
-<<<<<<< HEAD
 DataSet link
 =======
 ```bash
@@ -57,7 +56,7 @@ https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 ```
 
 
-Make sure you have your Kaggle credentials set up (username and key) in your environment variables.
+Ensure that you have set up your Kaggle credentials (username and key) in your environment variables.
 =======
 ## Model Architecture
 The model follows a VGG-style architecture, composed of stacked convolutional and pooling layers, designed for robust feature extraction and classification.
